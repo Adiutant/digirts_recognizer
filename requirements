@@ -1,0 +1,6 @@
+cv2
+torch
+ultralytics
+pillow
+numpy
+matplotlib
