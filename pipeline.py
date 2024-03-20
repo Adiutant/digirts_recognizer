@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 first_model = YOLO('best_detect.pt')
-second_model = YOLO('best-classify.pt')
+second_model = YOLO('best_classify.pt')
 
 def is_valid_time(classification_results):
     
