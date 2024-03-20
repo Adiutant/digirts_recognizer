@@ -10,3 +10,7 @@ Possible blueprints for RTULAB 7segments indicators
 5. обучил yolo на классификацию
 6. сделал скрипт который использует crop фото после детекции , разбивает на 4 части (тут подошла бы сегментация) и классифицирует каждое маленькое фото
 7. затем валидирует набор чисел.
+## usage
+pip install -r requirements 
+В скрипте pipeline.py отредактировать 
+python3 pipeline.py
