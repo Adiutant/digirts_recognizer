@@ -13,4 +13,7 @@ Possible blueprints for RTULAB 7segments indicators
 ## usage
 pip install -r requirements 
 В скрипте pipeline.py отредактировать 
+`folder_path = 'test'`
+`output_file = 'output'`
+как пути к папке с фото и путь к файлу вывода соответственно
 python3 pipeline.py
